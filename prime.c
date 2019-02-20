@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
+void main()
+{
 int s,b,i,flag=0;
 printf("enter the interval");
 scanf(&s,&b);
@@ -21,4 +23,6 @@ printf("it is a prime number");
 else
 printf("it is not a prime number");
 }
+}
+getch();
 }

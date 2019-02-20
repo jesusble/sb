@@ -11,5 +11,5 @@ rev=rev+n%10;
 n=n/10;
 }
 printf("the reversed number is",rev);
-getch();
+return 0;
 }

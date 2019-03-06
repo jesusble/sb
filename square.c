@@ -9,7 +9,7 @@ void main()
  p=n;
  do
  {
-      r=q%10;
+      r=p%10;
       t=t+pow(s,2);
       p=p/10;
  }

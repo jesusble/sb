@@ -4,7 +4,7 @@ def rev(s):
     str = i + str
   return str
   
-s = "BLESSY"
+s = "aabbcc"
   
 print ("The string  is : ",end="") 
 print (s) 

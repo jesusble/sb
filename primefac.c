@@ -23,3 +23,4 @@ int main()
     int m = 315; 
     prime(m); 
     return 0; 
+}

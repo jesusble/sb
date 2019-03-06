@@ -2,7 +2,7 @@
 # include <math.h> 
 void prime(int m) 
 {
-while (n%2 == 0) 
+while (m%2 == 0) 
 { 
    printf("%d ", 2); 
    m = m/2; 
@@ -16,7 +16,7 @@ while (n%2 == 0)
     } 
  } 
  if (m > 2) 
-    printf ("%d ", n); 
+    printf ("%d ", m); 
 }
 int main() 
 { 

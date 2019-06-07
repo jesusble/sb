@@ -1,3 +1,3 @@
-
 A=input("")
-print(A*3)
+N=int(input())
+print(A*N)
